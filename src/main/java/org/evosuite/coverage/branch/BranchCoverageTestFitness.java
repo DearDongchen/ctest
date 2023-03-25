@@ -21,7 +21,6 @@ package org.evosuite.coverage.branch;
 
 import org.evosuite.Properties;
 import org.evosuite.coverage.ControlFlowDistance;
-import org.evosuite.ga.archive.Archive;
 import org.evosuite.testcase.ExecutableChromosome;
 import org.evosuite.testcase.TestChromosome;
 import org.evosuite.testcase.TestFitnessFunction;

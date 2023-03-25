@@ -23,7 +23,6 @@ import org.evosuite.Properties.Algorithm;
 import org.evosuite.ga.Chromosome;
 import org.evosuite.ga.ChromosomeFactory;
 import org.evosuite.ga.FitnessFunction;
-import org.evosuite.ga.archive.Archive;
 import org.evosuite.ga.bloatcontrol.BloatControlFunction;
 import org.evosuite.ga.metaheuristics.localsearch.DefaultLocalSearchObjective;
 import org.evosuite.ga.metaheuristics.localsearch.LocalSearchBudget;

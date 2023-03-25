@@ -19,7 +19,6 @@
  */
 package org.evosuite.ga.metaheuristics.mosa;
 
-import org.evosuite.ga.archive.Archive;
 import org.evosuite.ga.metaheuristics.TestSuiteAdapter;
 import org.evosuite.testsuite.TestSuiteChromosome;
 import org.evosuite.testsuite.TestSuiteFitnessFunction;
